@@ -1,3 +1,12 @@
+# 操作方式 operation
+A, D: 左右移动
+
+Q，E：左右旋转
+
+S：加速下落
+
+Space：确定下落
+
 # Features
 ## 音效系统 sound effect system
 基于对象池的音效系统
