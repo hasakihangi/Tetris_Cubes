@@ -5,6 +5,9 @@ using UnityEngine;
 using UnityEngine.Pool;
 using UnityEngine.SceneManagement;
 
+// 要不每个对象都用一个LinkedListNode来包装, 对象池存储LinkedListNode
+// 但是, 如果是Fmod的Emitter, 或许有事件可以进行通知? 如果是这样的话, 就不需要存储活跃的Emitter了
+// 需要一个
 public class SoundEffectPool : Pool<SoundEffect>
 {
     private LinkedList<SoundEffect> soundEffectNodes = new LinkedList<SoundEffect>();
