@@ -22,4 +22,4 @@ Space：确定下落
 
 ![tetris_timeline](https://github.com/user-attachments/assets/928fb3ee-afbf-4fed-9b28-540cb0b6ec72)
 
-架构来自于猴叔(猴与花果山)
+timeline的思想来自于猴叔(猴与花果山)
