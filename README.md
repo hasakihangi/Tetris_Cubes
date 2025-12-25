@@ -22,10 +22,4 @@ Space：确定下落
 
 ![tetris_timeline](https://github.com/user-attachments/assets/928fb3ee-afbf-4fed-9b28-540cb0b6ec72)
 
-架构来自于猴叔(猴与花果山 kierstone), 改了部分: 
-
-timeline中的list换成linkedList
-
-timeline和timelineNode获取全部通过对象池
-
-timelineManager中遍历timeline的结构换成了dictionary
+架构来自于猴叔(猴与花果山)
